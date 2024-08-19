@@ -1,5 +1,5 @@
 #!/usr/bin/sh
-#SBATCH -A ACD113027        # Account name/project number
+#SBATCH -A MST109178        # Account name/project number
 #SBATCH -J vep        # Job name
 #SBATCH -p ngs53G
 #SBATCH -c 8               # 使用的core數 請參考Queue資源設定 
