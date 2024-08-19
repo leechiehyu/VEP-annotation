@@ -38,7 +38,6 @@ $VEP_PATH --cache --offline \
 	--format vcf \
 	--fork 4 \
 	--check_existing \
-	--pick \
 	--force_overwrite \
 	--dir_cache $VEP_CACHE_DIR \
 	--assembly GRCh38 \
